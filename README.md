@@ -4,6 +4,11 @@
 
 
 
+https://badges.pufler.dev/commits/{periodicity}/{Rider-io}
+
+Markdown
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/puf17640)](https://badges.pufler.dev)
+
 
 
 <!--
