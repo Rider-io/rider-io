@@ -1,4 +1,4 @@
-# About me
+[![Rider-io GitHub stats](https://github-readme-stats.vercel.app/api?username=Rider-io)](https://github.com/Rider-io/github-readme-stats)
 
 <!-- 
 
