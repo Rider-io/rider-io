@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aston</h1>
 <h3 align="center">A passionate Tech Recruiter from London.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rider-io&label=Profile%20views&color=0e75b6&style=flat" alt="rider-io" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rider-io&label=Profile%20views&color=0e75b6&style=flat" alt="rider-io" /> </p>
 
 <p align="left">
 </p>
@@ -13,7 +13,7 @@
 
 ![rand](https://rand-xyz.now.sh/api/hello)
 
-<a align="center"> <a href="https://app.daily.dev/aston"><img src="https://api.daily.dev/devcards/39e7b67cc4e2413e90e245f373ecdfe0.png?r=f77" width="300" alt="Ast's Dev Card"/></a>
+<p align="center"> <a href="https://app.daily.dev/aston"><img src="https://api.daily.dev/devcards/39e7b67cc4e2413e90e245f373ecdfe0.png?r=f77" width="300" alt="Ast's Dev Card"/></a>
 
 
 
