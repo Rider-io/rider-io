@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rider-io&label=Profile%20views&color=0e75b6&style=flat" alt="rider-io" /> </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -14,7 +13,7 @@
 
 ![rand](https://rand-xyz.now.sh/api/hello)
 
-src="https://api.daily.dev/devcards/39e7b67cc4e2413e90e245f373ecdfe0.png?r=r90" width="300" alt="Ast's Dev Card"/></a>
+<a align="center"> src="https://api.daily.dev/devcards/39e7b67cc4e2413e90e245f373ecdfe0.png?r=r90" width="300" alt="Ast's Dev Card"/></a>
 
 
 
