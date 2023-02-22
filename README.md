@@ -1,4 +1,4 @@
-<img src="https://giphy.com/embed/hN38EO7j1VBaLzWtiB" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hN38EO7j1VBaLzWtiB">
+<img src="https://giphy.com/embed/hN38EO7j1VBaLzWtiB" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/hN38EO7j1VBaLzWtiB">
 
 
 
