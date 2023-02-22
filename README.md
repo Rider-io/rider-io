@@ -1,4 +1,5 @@
-<img src="https://2ijk7.csb.app/.gif" width="300" height="100" />
+<img src="https://2ijk7.csb.app/" width="40" height="40" />
+
 
 
 
