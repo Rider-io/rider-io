@@ -1,7 +1,3 @@
-<img src="https://giphy.com/embed/hN38EO7j1VBaLzWtiB" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/hN38EO7j1VBaLzWtiB">
-
-
-
 
 <h1 align="center">Hi 👋, I'm Aston</h1>
 <h3 align="center">A passionate Tech Recruiter</h3>
