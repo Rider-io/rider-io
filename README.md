@@ -13,11 +13,7 @@
 
 ![rand](https://rand-xyz.now.sh/api/hello)
 
-<a align="center"> src="https://api.daily.dev/devcards/39e7b67cc4e2413e90e245f373ecdfe0.png?r=r90" width="300" alt="Ast's Dev Card"/></a>
+<a align="center"> <a href="https://app.daily.dev/aston"><img src="https://api.daily.dev/devcards/39e7b67cc4e2413e90e245f373ecdfe0.png?r=f77" width="300" alt="Ast's Dev Card"/></a>
 
 
-
-
-<!--
-**Rider-io/rider-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
