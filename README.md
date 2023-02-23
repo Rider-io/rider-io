@@ -13,4 +13,3 @@
 <p align="Center"><href="https://app.daily.dev/aston"><img src="https://api.daily.dev/devcards/39e7b67cc4e2413e90e245f373ecdfe0.png?r=wvl" width="400" alt="Ast's Dev Card"/></a>
 
 
-![Snake animation](https://github.com/rider-io/rider-io/blob/output/github-contribution-grid-snake.svg)
