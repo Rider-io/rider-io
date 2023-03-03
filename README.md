@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Aston</h1>
-<h3 align="center">I'm a british tech recruiter & amateur coder </h3>
+<h1 align="center">Hi👋, I'm Aston</h1>
+<h3 align="center">I'm a tech recruiter & amateur coder </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rider-io&label=Profile%20views&color=0e75b6&style=flat" alt="rider-io" /> </p>
 
