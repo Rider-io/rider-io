@@ -3,7 +3,10 @@
 <h3 align="center">I'm a tech recruiter & amateur coder </h3>
 
 ## <p align="center"> <img src = "https://raw.githubusercontent.com/rider-io/rider-io/main/about_me.gif" width = 150px>
-
+  
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br><br>
+  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rider-io&label=Profile%20views&color=0e75b6&style=flat" alt="rider-io" /> </p>
 
 
