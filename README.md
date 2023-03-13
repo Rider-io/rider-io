@@ -14,7 +14,7 @@
 <h3>How I'd define myself...literally</h3>
 
  ```ruby
- class Sy < Person
+ class Rider-io < Person
    def initialize
      @name = 'Aston Rider'
      @age = 22
