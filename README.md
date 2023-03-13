@@ -11,6 +11,34 @@
 <br><br>
 </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
+<h3>How I'd define myself...literally</h3>
+
+ ```ruby
+ class Sy < Person
+   def initialize
+     @name = 'Aston Rider'
+     @age = 22
+     @work = [ 'Oselo Recruitment' ]
+     @hobbies = [ 'Gym', 'Car Racing ', 'Munching Food ' ]
+   end
+   def current_location
+     'London, UK'
+   end
+   def next_locations
+     ['Norway, NOR', 'Berlin, DE']
+   end
+   def currently
+     {
+       studying: [ 'How to code' ],
+       reading: [ 'Diary of a CEO', 'The Secret' ],
+       tinkering: [ 'My Readme' ]
+      }
+   end
+ end
+ ```
+ 
+<br>
+
 
 <p align="Center"><href="https://app.daily.dev/aston"><img src="https://api.daily.dev/devcards/39e7b67cc4e2413e90e245f373ecdfe0.png?r=wvl" width="300" alt="Ast's Dev Card"/></a>
 
