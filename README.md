@@ -1,9 +1,9 @@
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rider-io&label=Profile%20views&color=0e75b6&style=flat" alt="rider-io" /> </p>
 <h1 align="center">Hi👋, I'm Aston</h1>
 <h3 align="center">I'm a tech recruiter & amateur coder </h3>
 
 ## <p align="center"> <img src = "https://raw.githubusercontent.com/rider-io/rider-io/main/about_me.gif" width = 150px>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rider-io&label=Profile%20views&color=0e75b6&style=flat" alt="rider-io" /> </p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
 
