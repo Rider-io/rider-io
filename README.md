@@ -37,6 +37,6 @@
    end
  end
  ```
-<p align="right"><img src="https://github.com/Rider-io/rider-io/blob/main/dark.png" width ="350"> <p align="Left"><href="https://app.daily.dev/aston"><img src="https://api.daily.dev/devcards/39e7b67cc4e2413e90e245f373ecdfe0.png?r=wvl" width="300" alt="Ast's Dev Card"/></a>
+<p align="right"><img src="https://github.com/Rider-io/rider-io/blob/main/dark.png" width ="350"><p align="Left"><href="https://app.daily.dev/aston"><img src="https://api.daily.dev/devcards/39e7b67cc4e2413e90e245f373ecdfe0.png?r=wvl" width="300" alt="Ast's Dev Card"/></a>
 
 
