@@ -37,7 +37,7 @@
    end
  end
  ```
- 
+ <p align="center"><img src="https://github.com/Rider-io/rider-io/main/dark.png" width ="25">
 <br>
 
 
