@@ -49,7 +49,7 @@
 
 <h3>How I'd define myself.. in JS </h3>
 
-```
+```javascript
 class Person {
   constructor() {
     // Add any properties or methods that are common to all persons here
@@ -81,7 +81,7 @@ class RiderIO extends Person {
     };
   }
 }
-```
+
 <br><br>
 <p align="center"><<href="https://app.daily.dev/aston"><img src="https://api.daily.dev/devcards/39e7b67cc4e2413e90e245f373ecdfe0.png?r=wvl" width="300" alt="Ast's Dev Card"/>
 
