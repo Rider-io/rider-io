@@ -52,7 +52,7 @@
 ```
 class Person {
   constructor() {
-    // Github User
+    // Add any properties or methods that are common to all persons here
   }
 }
 
