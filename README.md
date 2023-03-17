@@ -25,7 +25,7 @@
  
 </div>
 <p align="center">
-## <strong> Contacts :iphone: <strong>
+<strong> Contacts :iphone: <strong>
 
 <p align="center">
     <a href="https://github.com/rider-io">
