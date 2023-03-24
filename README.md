@@ -62,7 +62,7 @@ class RiderIO extends Person {
     this.name = 'Aston Rider';
     this.age = 22;
     this.work = ['Oselo Recruitment'];
-    this.hobbies = ['Gym', 'Car Racing', 'Munching Food'];
+    this.hobbies = ['🏋🏽‍♂️', '🏎️', '🍔'];
   }
 
   currentLocation() {
@@ -70,13 +70,13 @@ class RiderIO extends Person {
   }
 
   nextLocations() {
-    return ['Norway, NOR', 'Berlin, DE'];
+    return ['Norway, NOR'];
   }
 
   currently() {
     return {
       studying: ['How to code'],
-      reading: ['Diary of a CEO', 'The Secret'],
+      reading: ['Diary of a CEO', 'Atomic Habits'],
       tinkering: ['My Readme']
     };
   }
