@@ -47,7 +47,10 @@
 
 <p align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> 
 
-<h3>How I'd define myself.. in JS </h3>
+ <br><br>
+<p align="center"><<href="https://app.daily.dev/aston"><img src="https://api.daily.dev/devcards/39e7b67cc4e2413e90e245f373ecdfe0.png?r=wvl" width="300" alt="Ast's Dev Card"/>
+
+ <h3>How I'd define myself.. in JS </h3>
 
 ```javascript
 class Person {
@@ -82,8 +85,7 @@ class RiderIO extends Person {
   }
 }
 ```
-<br><br>
-<p align="center"><<href="https://app.daily.dev/aston"><img src="https://api.daily.dev/devcards/39e7b67cc4e2413e90e245f373ecdfe0.png?r=wvl" width="300" alt="Ast's Dev Card"/>
+
 
 
 
