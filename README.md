@@ -62,7 +62,7 @@ class RiderIO extends Person {
     this.name = 'Aston Rider';
     this.age = 22;
     this.work = ['Oselo Recruitment'];
-    this.hobbies = ['🏋🏽‍♂️', '🏎️', '🍔'];
+    this.hobbies = 'Gym', 'Driving','Gaming';
   }
 
   currentLocation() {
