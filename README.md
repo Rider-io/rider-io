@@ -19,9 +19,6 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
  
 </div>
 <br>
@@ -43,8 +40,6 @@
     </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <p align="center"><href="https://app.daily.dev/aston"><img src="https://api.daily.dev/devcards/39e7b67cc4e2413e90e245f373ecdfe0.png?r=wvl" width="300" alt="Ast's Dev Card"/>
 
 <br>
@@ -53,44 +48,6 @@
 
 
 
-
-
-
-<h3>How I'd define myself.. in JS </h3>
-
-```javascript
-class Person {
-  constructor() {
-    // Github User
-  }
-}
-
-class RiderIO extends Person {
-  constructor() {
-    super();
-    this.name = 'Aston Rider';
-    this.age = 22;
-    this.work = ['Oselo Recruitment'];
-    this.hobbies =['Gym','Driving','Gaming'];
-  }
-
-  currentLocation() {
-    return 'London, UK';
-  }
-
-  nextLocations() {
-    return ['Norway, NOR'];
-  }
-
-  currently() {
-    return {
-      studying: ['How to code'],
-      reading: ['Diary of a CEO', 'Atomic Habits'],
-      tinkering: ['My Readme']
-    };
-  }
-}
-```
 
 
 
