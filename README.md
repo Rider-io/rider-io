@@ -9,9 +9,6 @@
 <p> <samp> Technology Recruitment Specialist <br> Amatuer Coder </samp></p>
 
 <p align="center">
-<strong> Contacts :iphone: <strong>
-<br>
-<p align="center">
     <a href="https://github.com/rider-io">
         <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/rider-io">
     </a>
