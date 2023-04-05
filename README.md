@@ -8,11 +8,6 @@
 
 <p> <samp> Technology Recruitment Specialist <br> Amatuer Coder </samp></p>
 
-  <br>
- 
-</div>
-<br>
-
 <p align="center">
 <strong> Contacts :iphone: <strong>
 <br>
