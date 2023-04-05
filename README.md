@@ -47,6 +47,15 @@
 
 <p align="center"><href="https://app.daily.dev/aston"><img src="https://api.daily.dev/devcards/39e7b67cc4e2413e90e245f373ecdfe0.png?r=wvl" width="300" alt="Ast's Dev Card"/>
 
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
+
+
+
+
+
 <h3>How I'd define myself.. in JS </h3>
 
 ```javascript
