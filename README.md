@@ -1,6 +1,9 @@
 <head>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rider-io&label=Profile%20views&color=0e75b6&style=flat" alt="rider-io" /> </p>
 <div align='center'>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 <h3><samp><strong> Hi, I'm Aston👋 </strong> </samp></h3>
 
 
