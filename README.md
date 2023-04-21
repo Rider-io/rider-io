@@ -2,7 +2,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rider-io&label=Profile%20views&color=0e75b6&style=flat" alt="rider-io" /> </p>
 <div align='center'>
 
-<H3>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2300E1&width=435&lines=Hey!+I'm+Aston%F0%9F%AB%A1;Welcome+to+my+GH%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 
