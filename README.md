@@ -9,19 +9,20 @@
 
 <p align="center">
   <a href="https://github.com/rider-io">
-    <img width="190"
-         src="https://img.shields.io/badge/GitHub-23100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img width="180"
+         src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
   <a href="https://linktr.ee/astonr">
-    <img width="190"
+    <img width="180"
          src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
 
   <a href="https://www.linkedin.com/in/aston-/">
-    <img width="190"
+    <img width="180"
          src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
 </p>
 
 
