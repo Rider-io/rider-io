@@ -8,19 +8,20 @@
 <p> <samp> Tech Hiring Expert <br> I really like people & coffee  </samp></p>
 
 <p align="center">
-    <a href="https://github.com/rider-io">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/rider-io">
-    </a>
-    
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linktr.ee/astonr">
-  <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
-</a>
+  <a href="https://github.com/rider-io">
+    <img width="190"
+         src="https://img.shields.io/badge/GitHub-23100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/aston-/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/tech--recruiter//">
-</a>
+  <a href="https://linktr.ee/astonr">
+    <img width="190"
+         src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/aston-/">
+    <img width="190"
+         src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 
