@@ -5,7 +5,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&duration=2500&pause=750&color=A020F0F&center=true&width=435&lines=Hey!👋🏽;I'm+Aston%F0%9F%AB%A1;Welcome+to+my+GitHub!%F0%9F%A4%9D)](https://git.io/typing-svg)
 
-<p> <samp> Search Expert <br> I really like cars & coffee - tried HTML for the first time to get this here, think i'll stick to hiring  </samp></p>
+<p> <samp> Search Expert <br> I really like cars & coffee 
+(tried HTML for the first time to get this here, think i'll stick to hiring)  </samp></p>
 
   <a href="https://linktr.ee/astonr">
     <img width="180"
