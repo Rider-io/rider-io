@@ -7,12 +7,6 @@
 
 <p> <samp> Search Expert <br> I really like cars & coffee  </samp></p>
 
-<p align="center">
-  <a href="https://github.com/rider-io">
-    <img width="180"
-         src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
   <a href="https://linktr.ee/astonr">
     <img width="180"
          src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
