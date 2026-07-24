@@ -10,11 +10,6 @@
   <a href="https://linktr.ee/astonr">
     <img width="180"
          src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/aston-/">
-    <img width="180"
-         src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 
 </p>
 
