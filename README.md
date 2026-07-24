@@ -3,7 +3,7 @@
  <img src="https://komarev.com/ghpvc/?username=rider-io&label=Profile%20views&color=0e75b6&style=flat" alt="rider-io" /> </p>
 <div align='center'>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2700&pause=200&color=2443F7&center=true&width=435&lines=Hey!%F0%9F%91%8B;I'm+Aston;Welcome+to+my+GitHub!+;Admittedly%2C+I+can't+code;But+I+can+secure+frontier+talent.;Appreciate+the+visit!+;God+Bless+%F0%9F%99%8F)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2700&pause=200&color=2443F7&center=true&width=435&lines=Hey!%F0%9F%91%8B;I'm+Aston;Welcome+to+my+GitHub!+;Admittedly%2C+I+can't+code;But+I+can+secure+frontier+talent.;Appreciate+the+visit!+;God+Bless+%F0%9F%99%8F" alt="Typing SVG" /></a>
 
 <p> <samp> Search Expert <br> Passionate about nature, cars & coffee 
  
