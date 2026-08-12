@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3200&pause=200&color=2443F7&center=true&width=435&lines=Hey!%F0%9F%91%8B;I'm+Aston;Welcome+to+my+GitHub!+;God+Bless+%F0%9F%99%8F)](https://git.io/typing-svg)
 
-<p> <samp> Search Expert <br> Passionate about Christ, nature, cars & coffee 
+<p> <samp> Search Expert <br> I love my Creator, family, nature, cars & coffee 
  
  <br>
 <br>
